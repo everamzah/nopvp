@@ -1,0 +1,2 @@
+# nopvp
+WTFPL
